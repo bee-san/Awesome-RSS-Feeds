@@ -1,0 +1,4 @@
+http://rss.cnn.com/rss/edition.rss
+http://feeds.bbci.co.uk/news/rss.xml
+https://www.dailymail.co.uk/home/index.rss
+https://www.theguardian.com/uk/rss
